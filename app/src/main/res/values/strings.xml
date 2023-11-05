@@ -1,0 +1,27 @@
+<resources>
+    <string name="search_screen_title">Recherche d’un espace</string>
+    <string name="search_button_text">Recherche</string>
+    <string name="search_people_number">Nombre Personnes</string>
+    <string name="app_name" translatable="false">BookMySpace</string>
+    <string name="admin_create_space_page_title">Création d’un espace</string>
+    <string name="admin_create_space_placeholder_space_name">Nom de l’espace</string>
+    <string name="admin_create_space_placeholder_space_description">Description de l’espace</string>
+    <string name="admin_create_space_placeholder_space_types">Type d\'espace</string>
+    <string name="admin_create_space_placeholder_space_options">Adresse de l’espace</string>
+    <string name="admin_create_space_placeholder_space_capacity">Capacité maximal</string>
+    <string name="admin_create_space_placeholder_space_image_url">Url de l\'image</string>
+    <string name="admin_create_space_button_create">Créer l\'espace</string>
+    <string name="admin_create_space_button_next">Suivant</string>
+    <string name="admin_create_space_button_ignore">Ignorer</string>
+    <string name="admin_create_space_why_space_name">Le nom de votre espace est très important, il permettra aux utilisateurs de le retrouver facilement.</string>
+    <string name="admin_create_space_why_space_url">L\'url de l\'image de votre espace permettra d\'embélir votre espace et de le rendre plus attractif.</string>
+    <string name="admin_create_space_why_space_description">La description de %s permettra aux utilisateurs de savoir ce qu\'ils peuvent y faire. N\'ésitez pas à être précis !</string>
+    <string name="error_field_minimum_characters">Ce champ doit contenir au minimum %i caractères</string>
+    <string name="error_field_is_empty">Vous devez replir ce champ</string>
+    <string name="admin_create_space_button_previous">Précédent</string>
+    <string name="admin_create_space_placeholder_space_max_capacity">Capacité de l\'espace</string>
+    <string name="admin_create_space_why_space_max_capacity">Indiquez la capacité maximale de votre espace. Cela permettra aux utilisateurs de savoir si votre espace est adapté à leurs besoins.</string>
+    <string name="admin_create_space_why_space_type">Indiquez le type d\'espace que vous proposez. Cela permettra aux utilisateurs de savoir si votre espace est adapté à leurs besoins.</string>
+    <string name="admin_create_space_placeholder_space_type">Type d\'espace</string>
+    <string name="admin_create_space_button_finish">Créer</string>
+</resources>
